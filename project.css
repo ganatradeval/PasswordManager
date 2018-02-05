@@ -1,0 +1,30 @@
+body{
+       background-image: url('lockkey.jpg');
+       background-repeat: no-repeat;
+       background-position: right;
+	}
+
+div.welcome{
+	      font-size:200%;
+	      text-align: center;
+	      color: black;
+	      background-color: #00ffbf;
+          height: 40px;
+          
+          }
+  fieldset
+		{
+
+           background-color: ;
+           text-align: center;
+           display: block;
+           width: 100px;
+           border: 4px solid blue;
+           height: 200px;
+           padding-top: 50px;
+           padding-right: 100px;
+           float: center;          
+           border-top-left-radius: 50px;
+
+		}
+
