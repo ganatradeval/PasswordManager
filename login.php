@@ -39,14 +39,16 @@
 	}
 	
 ?>
+
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
 	<title>Password Manager</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link  rel="stylesheet" type="text/css" href="project.css">
+	<link  rel="stylesheet" type="text/css" href="project1.css">
 </head>
 <body>
+	<div class="image-container"><img class="blurred" src="lockkey.jpg"/></div>
 	<div class="welcome">
 		WELCOME TO PASSWORD MANAGER</div>
 	<div class="loginpage">
@@ -65,28 +67,3 @@
 	</div>
 </body>
 </html>
-<!--
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Login Page</title>
-</head>
-<body>
-	<div>
-		<form action="process.php" method="post">
-			<p>
-				<label>Username</label>
-				<input type="text" name="user" />
-			</p>
-			<p>
-				<label>Password</label>
-				<input type="Password" name="pass" />
-			</p>
-			<p>
-				<input type="submit" value="Login" />
-			</p>
-		</form>
-	</div>
-</body>
-</html>
--->
